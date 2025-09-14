@@ -57,4 +57,4 @@ Tetapi Jika nama hewan yang di input tidak ada di List Hewan, akan muncul output
 <h2> Penjelasan pilihan 4:</h2>
 <img width="1200" height="461" alt="Screenshot 2025-09-14 170016" src="https://github.com/user-attachments/assets/e8ac727d-0ed2-496d-ba4f-6a2082714267" />
 <br>
-Berfungsi untuk keluar/mengakhiri program.
+Berfungsi untuk keluar/mengakhiri program dan akan mengeluarkan output terimakasih telah menggunakan program ini.
