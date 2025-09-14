@@ -1,4 +1,4 @@
-# Minpro-1-DDP= Manajemen hewan di kebun binatang
+# Minpro-1-DDP = Manajemen hewan di kebun binatang
 Mini Project 1 DDP
 <br>
 Buatlah sebuah program python sederhana yang menerapkan konsep CRUD (Create, Read, Update, Delete)
