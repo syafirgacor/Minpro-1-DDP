@@ -55,6 +55,6 @@ saat memilih pilihan ke 3 dengan cara memasukkan input 3 ke program, kita akan d
 Tetapi Jika nama hewan yang di input tidak ada di List Hewan, akan muncul output tidak ada hewan di kebun binatang
 
 <h2> Penjelasan pilihan 4:</h2>
-<img width="1200" height="461" alt="Screenshot 2025-09-14 165631" src="https://github.com/user-attachments/assets/c203836d-04c2-48c5-b8fc-30fde34f4407" />
+<img width="1200" height="461" alt="Screenshot 2025-09-14 170016" src="https://github.com/user-attachments/assets/e8ac727d-0ed2-496d-ba4f-6a2082714267" />
 <br>
 Berfungsi untuk keluar/mengakhiri program.
